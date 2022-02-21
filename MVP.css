@@ -1,0 +1,116 @@
+body{
+    background-color: rgb(43, 46, 53);
+}
+.h1-onezsm{
+color: aliceblue;
+font-family: 'Lucida Grande';
+margin-top: 40px;
+margin-left: 30px;
+}
+
+.videos-btn{
+    color: rgb(255, 255, 255);
+    background-color: rgb(199, 31, 73);
+    margin-left: 1300px;
+    font-family:  'Lucida Grande';
+    border: none;
+    padding: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 3px;
+    cursor: pointer;
+    box-shadow: 2px 2px 2px black;
+    
+}
+.videos-btn:hover{
+    background-color: rgb(252, 240, 255);
+    color: black;
+    
+}
+
+.text-beta{
+    font-size: x-small;
+    
+}
+
+.login-btn{
+    background-color: rgb(199, 31, 73);
+    color: aliceblue;
+    margin-left: 1400px;
+    font-family:  'Lucida Grande';
+    border: none;
+    padding: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 3px;
+    position: relative;
+    top: 20px;
+    box-shadow: 2px 2px 2px black;
+}
+
+.login-btn:hover{
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+    cursor: pointer;
+}
+
+.footer-box{
+    box-sizing: border-box;
+    width: 1500px;
+    height: 70px;
+    background-color: rgb(56, 60, 68);
+    margin-top: 450px;
+    box-shadow: 1px 1px 1px;
+}
+.abc{
+    color: aliceblue;
+    font-family:'Lucida Grande';
+    position: relative;
+    bottom: 20px;
+    margin-left: 10px;
+    cursor: pointer;
+
+}
+.banner{
+    width: 1500px;
+    height: 727px;
+    border: 1px solid rgb(105, 105, 105);
+}
+.search-box{
+    background-color: rgb(71, 78, 85);
+    color: aliceblue;
+position: relative;
+top: 200px;
+left: 540px;
+border-radius: 15px;
+border: none;
+width: 30pc;
+padding: 10px;
+box-shadow: 3px 3px 3px black;
+text-align: center;
+
+}
+.search-btn{
+    background-color: rgb(255, 255, 255);
+    position: relative;
+    top: 230px;
+    left: 740px;
+    padding: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 3px;
+    border: none;
+    cursor: pointer;
+    
+}
+.search-btn:hover{
+    background-color: rgb(199, 31, 73);
+    color: rgb(255, 255, 255);
+   
+}
+.horizantal-line{
+    position: relative;
+    top: 448px;
+    background-color: rgb(0, 0, 0);
+}
+
