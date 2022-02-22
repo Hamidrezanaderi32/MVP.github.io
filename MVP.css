@@ -61,14 +61,7 @@ margin-left: 30px;
     background-color: rgb(56, 60, 68);
     margin-top: 460px;
     box-shadow: 1px 1px 1px;
-}
-.abc{
-    color: aliceblue;
-    font-family:'Lucida Grande';
-    position: relative;
-    bottom: 20px;
-    margin-left: 10px;
-    cursor: pointer;
+
 
 }
 .banner{
@@ -107,6 +100,16 @@ text-align: center;
     background-color: rgb(199, 31, 73);
     color: rgb(255, 255, 255);
    
+}
+.nav{
+    color: aliceblue;
+    font-family: 'Lucida Grande';
+    text-decoration: none;
+    font-size: x-small;
+    margin-left: 15px;
+}
+.nav:hover{
+    color: rgb(199, 31, 73);
 }
 
 
